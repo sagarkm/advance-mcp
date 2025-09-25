@@ -1,0 +1,9 @@
+[project]
+name = "advance-mcp"
+version = "0.1.0"
+description = "Advance MCP server that is deployed to Aplic"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.12.3",
+]
